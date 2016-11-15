@@ -1,0 +1,3 @@
+#public
+
+All code (unles stated exlicitly in the code source) is licensed under the Apache 2.0 license.
